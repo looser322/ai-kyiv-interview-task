@@ -2,8 +2,6 @@ package com.example.movieratings
 
 import com.example.movieratings.service.MovieReportGeneratorService
 
-import scala.language.postfixOps
-
 object ReportGenerator {
 
   def main(args: Array[String]): Unit = {
